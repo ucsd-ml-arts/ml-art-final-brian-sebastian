@@ -1,12 +1,12 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
+Brian Sebastian, bpsebast@ucsd.edu
 
 (Your teammates' contact info, if appropriate)
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+For the final project, I will be revisiting project 4. For project 4, I used DeepDream on a kaleidoscope video to create a short clip. For the final project I hope to create a longer video that can be looped to have a more hypnotic effect. In addition, I also plan on experimenting more with using the different layers of the model to create different effects. In particular, I'd like to experiment with using different linear combinations of layers that change over time and see how they affect the video. For the final presentation, I will present the project as a video.
 
 ## Project Report
 
