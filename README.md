@@ -24,6 +24,7 @@ Final Project - Brian Sebastian.ipynb
 ## Results
 
 First try: https://youtu.be/lJ61swQL2QE
+
 Final video: Hypnotic Bloom.mp4
 
 ## Technical Notes
